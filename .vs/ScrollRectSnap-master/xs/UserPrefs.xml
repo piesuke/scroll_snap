@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{B83E0305-C873-2218-E7D7-7715C095B619}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Scroll.cs">
+    <Files>
+      <File FileName="Assets/Scripts/ScrollRectSnap.cs" Line="18" Column="35" />
+      <File FileName="Assets/Scripts/Scroll.cs" Line="4" Column="22" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
